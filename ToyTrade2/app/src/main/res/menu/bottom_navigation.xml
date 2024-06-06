@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mainPage"
+        android:icon="@drawable/main_t"
+        android:title="@string/app_name" />
+
+    <item
+        android:id="@+id/myToysPage"
+        android:icon="@drawable/toy"
+        android:title="@string/my_toys" />
+
+    <item
+        android:id="@+id/myChangesPage"
+        android:icon="@drawable/change"
+        android:title="@string/my_changes" />
+
+    <item
+        android:id="@+id/myProfilePage"
+        android:icon="@drawable/user"
+        android:title="@string/my_profile" />
+
+</menu>
